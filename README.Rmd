@@ -30,7 +30,9 @@ demo.package <img src="man/figures/package-sticker.png" align="right" style="flo
 <!-- badges: end -->
 
 
-The goal of the R package `demo.package` is to **{{ PLEASE ADD A FEW LINES }}**
+**This repository was automatically created using the R package 
+[`rcompendium``](https://cran.r-project.org/package=rcompendium) and the
+function `new_package()`**
 
 
 

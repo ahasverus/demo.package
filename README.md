@@ -13,7 +13,7 @@ coverage](https://github.com/ahasverus/demo.package/actions/workflows/test-cover
 [![codecov](https://codecov.io/gh/ahasverus/demo.package/branch/main/graph/badge.svg)](https://codecov.io/gh/ahasverus/demo.package)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/demo.package)](https://CRAN.R-project.org/package=demo.package)
-[![License: GPL (>=
+[![License: GPL (\>=
 2)](https://img.shields.io/badge/License-GPL%20%28%3E%3D%202%29-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
 [![LifeCycle](https://img.shields.io/badge/lifecycle-experimental-orange)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![Project Status:
@@ -21,8 +21,8 @@ Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repo
 [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 <!-- badges: end -->
 
-The goal of the R package `demo.package` is to **{{ PLEASE ADD A FEW
-LINES }}**
+**This repository was automatically created using the R package
+\[``` rcompendium``](https://cran.r-project.org/package=rcompendium) and the function ```new_package()\`**
 
 ## Installation
 
