@@ -21,9 +21,13 @@ Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repo
 [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 <!-- badges: end -->
 
+<br />
+
 **This repository was automatically created using the R package
 [`rcompendium`](https://cran.r-project.org/package=rcompendium) and the
 function `new_package()`**
+
+<br />
 
 ## Installation
 
