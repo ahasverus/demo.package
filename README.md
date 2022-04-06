@@ -22,7 +22,8 @@ Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repo
 <!-- badges: end -->
 
 **This repository was automatically created using the R package
-\[``` rcompendium``](https://cran.r-project.org/package=rcompendium) and the function ```new_package()\`**
+[`rcompendium`](https://cran.r-project.org/package=rcompendium) and the
+function `new_package()`**
 
 ## Installation
 

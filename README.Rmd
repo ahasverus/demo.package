@@ -31,7 +31,7 @@ demo.package <img src="man/figures/package-sticker.png" align="right" style="flo
 
 
 **This repository was automatically created using the R package 
-[`rcompendium``](https://cran.r-project.org/package=rcompendium) and the
+[`rcompendium`](https://cran.r-project.org/package=rcompendium) and the
 function `new_package()`**
 
 
